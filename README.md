@@ -1,17 +1,55 @@
-<h1 align="center">Hi 👋, I'm Suprith R Kenjoor</h1>
-<h3 align="center">A Computer Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<div align="center">
 
-- 🔭 I’m currently working on **Transcription using Deep Learning**
+# Suprith R Kenjoor
 
-- 🌱 I’m currently learning **Machine Learning and Deep learning**
+**Cybersecurity Graduate & Frontend Developer**
 
-- 📫 How to reach me **skenjoor25@gmail.com**
+Dubai, UAE · [Portfolio](https://suprith-dev.skenjoor25.workers.dev) · [LinkedIn](https://linkedin.com/in/suprith-kenjoor) · [Email](mailto:skenjoor25@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suprith-kenjoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suprith-kenjoor" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### What I do
+
+Cybersecurity graduate focused on SOC operations, risk, and technical security — with hands-on implementation experience in ISO 27001, vulnerability assessment, and incident response.
+
+Also build clean, structured frontend — HTML, CSS, JavaScript, React, WordPress.
+
+---
+
+### Security
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=flat&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+
+### Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+### Certifications
+
+- ISO/IEC 27001:2022 Lead Implementer — BSI
+- ISO/IEC 20000-1:2018 Lead Implementer — BSI
+- ISO/IEC 9001:2015 Lead Auditor — BSI
+
+---
+
+### Projects
+
+| Project | Stack | Type |
+|---|---|---|
+| [suprith.dev](https://github.com/SuprithKr/suprith.dev) | HTML, CSS, JS | Portfolio |
+| [incident-tracker-dashboard](https://github.com/SuprithKr/incident-tracker-dashboard) | React, JS | Security Tool |
+| [corporate-theme](https://github.com/SuprithKr/corporate-theme) | PHP, WordPress | Web |
+
+---
+
+<sub>Open to Junior SOC and frontend roles · Available immediately</sub>
+
+</div>
